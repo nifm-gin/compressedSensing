@@ -1,1 +1,1 @@
-All the data (codes, datasets and reconstructions) will be available once the article is accepted.
+All the data (codes, datasets, reconstructions and Compressed Sensing sequencies for Paravision 7) will be available once the article is accepted.
